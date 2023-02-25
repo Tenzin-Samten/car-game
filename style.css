@@ -53,22 +53,3 @@ body
     }
 
 
-#result{
-    height: 200px;
-    width: 400px;
-    background-color:blue;
-    margin: 1rem, auto;
-    border-radius: 20px;
-    text-align: center;
-    color: white;
-   }
-
-   #score{
-    font-size: 2.2rem;
-    color:darkorange;
-   }
-
-   #button{
-
-
-   }
