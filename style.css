@@ -51,5 +51,28 @@ body
         width:120px;
         transform: rotate(270deg);
     }
+    #result{
+        height: 200px;
+        width: 300px;
+        background-color:blue;
+        margin: 1rem, auto;
+        border-radius: 20px;
+        text-align: center;
+        
+        color: white;
+       }
+
+       #score{
+        font-size: 2.2rem;
+        color:darkorange;
+       }
+       #button{
+        padding: 0.5em 1 rem;
+        border-radius: 10px;
+        background-color: black;
+        color: aqua;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
 
 
