@@ -23,7 +23,11 @@ Replace this text with pseudocode.
 The pseudocode should describe in plain, simple language the logic of the game.
 Describe the logic involved in player decisions.
   - What are the choices available to the player?
+  1.Player are able to move their car left and right.
+  2.Main idea of the game is to move the player car and avoid the car that coming from the top.
   - What happens when the player makes a choice?
+  1. More the player avoid colliding car coming from top, the player are able to score point.
+  2. 
 Describe the logic that evaluates the player's victory/loss/progress status.
 ```
 
@@ -66,3 +70,6 @@ Describe the logic that evaluates the player's victory/loss/progress status.
 | Wed. 2/22 | Work day in class                                                                                                                  |
 | Sat. 2/25 | Test that project works, also ensuring your GitHub Pages deploy is up to date and working successfully ahead of your final commit. |
 | Mon. 2/27 | Submit your completed project. Present your project.                                                                               |
+
+Sources
+https://blogs.longwin.com.tw/lifetype/key_codes.html(ArrowKeys)
