@@ -1,13 +1,10 @@
 var yellowCar = document.getElementById("yellowcar");
 var redCar = document.getElementById("redcar");
 var game = document.getElementById("game");
+var start = document.getElementById("start");
 var result = document.getElementById("result");
 var score = document.getElementById("score");
 var counter = 0;
-
-
-
-
 
 yellowCar.addEventListener("animationiteration", function(){
     var random = ((Math.floor(Math.random()*2))*130)
