@@ -73,3 +73,4 @@ Describe the logic that evaluates the player's victory/loss/progress status.
 
 Sources
 https://blogs.longwin.com.tw/lifetype/key_codes.html(ArrowKeys)
+https://www.w3schools.com/jsref/jsref_random.asp
